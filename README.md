@@ -1,1 +1,1 @@
-# competition-2022-template
+# Proiect PA 2022
