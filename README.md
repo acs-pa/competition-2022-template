@@ -1,1 +1,35 @@
 # Proiect PA 2022
+
+Ultima modificare: 06.03.2022
+
+## Conţinutul repository-ului:
+
+ starter_packages/    - boţii pe baza cărora puteţi începe să codaţi
+ environment/         - engine-ul jocului
+ bots/                - folder cu botii pusi la dispozitie de echipa de PA
+
+## Regulile jocului
+
+Regulile jocului pot fi gasite [aici](https://2016.halite.io/rules_game.html)
+ 
+## Engine
+
+Pentru a compila engine-ul jocului:
+
+### Linux: 
+```
+cd environment
+make
+```
+
+### Windows:
+
+```
+cd environment
+make.bat
+```
+
+## Rularea agentilor
+
+In interiorul starter packages veti gasi un runGame.sh / runGame.bat, cu ajutorul carora puteti rula un meci (nu uitati sa copiati engine-ul jocului).
+Mai multe detalii despre engine cli gasiti [aici](https://2016.halite.io/advanced_command_line.html)
